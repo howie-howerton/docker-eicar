@@ -1,5 +1,5 @@
 FROM centos
-LABEL maintainer "Wassim DHIF <wassimdhif@gmail.com>"
+LABEL maintainer "Howie <howie_howerton@trendmicro.com>"
 
 RUN yum install -y wget
 
